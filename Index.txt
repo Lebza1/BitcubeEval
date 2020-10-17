@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Index</title>
+</head>
+<body>
+<?php
+echo "<p>Training Facility!</p>";
+?>
+<a href="Student.php">
+Student
+<a href="Lecturer.php">
+Lecturer
+<a href="Degree.php">
+Degree
+<a href="Course.php">
+Course
+</body>
+</html>
